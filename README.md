@@ -1,2 +1,2 @@
 # wordle-solver
-Solving Wordle using Information Theory.
+Solving wordle using Information Theory.
